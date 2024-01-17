@@ -13,6 +13,7 @@ const Navbar = () => {
       <div className="bg-white flex justify-between items-center">
         <div className="flex items-center">
           <img className="m-0 w-[60px]" src={logo} alt="logo" />
+          <h1 className="text-gray-400 font-bold">Doctors</h1>
         </div>
         <ul className="flex items-center">
           <li className="m-1">
